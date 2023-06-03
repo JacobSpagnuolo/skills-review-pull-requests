@@ -21,7 +21,6 @@ _Collaborate and work together on GitHub._
 
 ## Step 5: Apply suggested changes
 
-test
 
 Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
 
